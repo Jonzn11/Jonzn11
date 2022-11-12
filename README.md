@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jonzn11
 - 👀 I’m interested in Full-Stack Development and BackEnd Development.
-- 🌱 I’m currently learning Python and React.js.
+- 🌱 I’m currently learning Java Backend.
 - 💞️ I’m looking to collaborate on projects that help hone my skills.
 - 📫 How to reach me ... Email: Jonzn11@gmail.com
 
